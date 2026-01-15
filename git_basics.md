@@ -18,6 +18,15 @@ Beim git pull origin main wurden alle Dateien aus dem Remote-Repository in das n
 Neuer Branch main wurde erstellt und mit origin/main verknüpft.
 Wenn die Änderungen im alten Ordner vorher gepusht wurden, dann werden sie beim git pull in das neue Repository übernommen. Beide Ordner sind dadurch synchron.
 
+# Aufgabe 6: ## Aufgabe 6: Nutzen von Git + Commit/Push vor der Flucht
+-Warum sollte Git in der Softwareentwicklung genutzt werden?
+Git hilft dabei, Änderungen an Code sauber nachzuverfolgen, ältere Versionen wiederherzustellen und gemeinsam im Team am gleichen Projekt zu arbeiten, ohne dass etwas verloren geht oder überschrieben wird.  
+
+-Warum bei einem „Feuer“ zuerst Commit → Push → Flucht?
+Wenn ein Computer beschädigt wird oder ausfällt, sind die lokalen Änderungen verloren.
+Durch Commit und Push werden die Änderungen zuerst gespeichert und dann ins Remote-Repository übertragen. Dadurch ist der Code sicher und kann später wiederhergestellt werden.
+
+
 ## Schritt 2
 Änderungen committed mit der Nachricht "Initial commit".
 
