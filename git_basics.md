@@ -11,6 +11,8 @@ Datei git_basics.md erstellt.
 
 # Aufgabe 2: Repository klonen
 
+# Aufgabe 3: Markdown Cheatsheet hinzufügen
+
 ## Schritt 4
 Repository lokal geklont.
 
