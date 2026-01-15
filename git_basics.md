@@ -13,6 +13,18 @@ Datei git_basics.md erstellt.
 
 # Aufgabe 3: Markdown Cheatsheet hinzufügen
 
+## Schritt 2
+Änderungen committed mit der Nachricht "Initial commit".
+
+```bash
+git add .
+git commit -m "Initial commit"
+
+
+## Schritt 1
+Markdown-Cheatsheet in das lokale Repository-Verzeichnis kopiert
+
+
 ## Schritt 4
 Repository lokal geklont.
 
