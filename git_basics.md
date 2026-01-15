@@ -13,6 +13,11 @@ Datei git_basics.md erstellt.
 
 # Aufgabe 3: Markdown Cheatsheet hinzufügen
 
+# Aufgabe 5: Beobachtung
+Beim git pull origin main wurden alle Dateien aus dem Remote-Repository in das neue lokale Repository heruntergeladen.
+Neuer Branch main wurde erstellt und mit origin/main verknüpft.
+Wenn die Änderungen im alten Ordner vorher gepusht wurden, dann werden sie beim git pull in das neue Repository übernommen. Beide Ordner sind dadurch synchron.
+
 ## Schritt 2
 Änderungen committed mit der Nachricht "Initial commit".
 
