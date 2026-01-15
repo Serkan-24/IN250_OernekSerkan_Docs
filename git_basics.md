@@ -16,6 +16,10 @@ Datei git_basics.md erstellt.
 ## Schritt 2
 Änderungen committed mit der Nachricht "Initial commit".
 
+## Schritt 3
+Über den Browser überprüft, ob die Datei im Repository sichtbar ist.
+
+
 ```bash
 git add .
 git commit -m "Initial commit"
