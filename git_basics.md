@@ -9,6 +9,8 @@ Repository benannt: IN250_OrnekSerkan_Docs.
 ## Schritt 3
 Datei git_basics.md erstellt.
 
+# Aufgabe 2: Repository klonen
+
 ## Schritt 4
 Repository lokal geklont.
 
@@ -23,7 +25,7 @@ Datei `git_basics.md` lokal bearbeitet und gespeichert.
 Änderungen gestaged und committed.
 
 ``` bash
-gitt add git_basics.md
+git add git_basics.md
 git commit -m "add documentation steps"
 
 ## Schritt 7
