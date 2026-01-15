@@ -25,3 +25,10 @@ Datei `git_basics.md` lokal bearbeitet und gespeichert.
 ``` bash
 gitt add git_basics.md
 git commit -m "add documentation steps"
+
+## Schritt 7
+Änderungen auf GitHub gepusht.
+
+```bash
+git push
+
