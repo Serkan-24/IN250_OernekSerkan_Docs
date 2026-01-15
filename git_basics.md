@@ -32,3 +32,6 @@ git commit -m "add documentation steps"
 ```bash
 git push
 
+## Schritt 8
+Über den Browser überprüft, ob die Änderungen erfolgreich auf GitHub sichtbar sind.
+
