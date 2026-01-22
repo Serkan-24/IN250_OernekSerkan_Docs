@@ -69,3 +69,5 @@ git push
 ## Schritt 8
 Über den Browser überprüft, ob die Änderungen erfolgreich auf GitHub sichtbar sind.
 
+## Eigene Übung
+Erste Änderung von Serkan.
